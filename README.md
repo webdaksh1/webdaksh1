@@ -1,4 +1,4 @@
-I bridge the gap between static design and interactive reality. As a Front-End Developer with a background in BCA from St. Andrews, I specialize in building responsive, high-performance web applications using JavaScript (ES6+) and modern web standards.
+I bridge the gap between static design and interactive reality. As a Front-End Developer with a background in BCA from St. Andrews, I specialize in building responsive, high-performance web applications using JavaScript (ES6+) and modern web standards.<br/>
 [Insatagram](https://www.instagram.com/daksh.coree?igsh=ZzlqdGJpM3A0MHl4)<br/>
 [Linked In](https://www.linkedin.com/in/daksh-dang-403167390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br/>
 [X](https://x.com/webdaksh1)<br/>
